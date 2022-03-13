@@ -1,18 +1,12 @@
+<!-- Header -->
 <samp>
   with great power comes great responsibility.
 </samp>
 
 <!-- About me -->
 I'm a <code>**Computer Science Student**</code> from <code>**UNSIKA**</code> and still learning how to be come a <code>**Web Developer**</code> .
+<br>
 Welcome to <code>**My Github**<code>
-
-## :trophy: Award ![Award](https://img.shields.io/badge/Dicoding-Best%20Capstone-blue)
-<a  href="https://github.com/GON69/gampah_reckless_waste_reporting_system">
-      <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=GON69&repo=gampah_reckless_waste_reporting_system" alt="GitHub Stats" />
-    </a>
-    <a  href="https://github.com/GON69/gampah_reckless_waste_reporting_system">
-      <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=GON69&repo=gampah_backend" alt="GitHub Stats" />
-    </a>
 
 <!-- Github Statistics -->
 ## My Statistic ![Profile View Counter](https://komarev.com/ghpvc/?username=GON69&color=green)

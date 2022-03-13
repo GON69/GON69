@@ -1,7 +1,14 @@
 <!-- Header -->
+<p align="center">
+
 <samp>
   with great power comes great responsibility.
 </samp>
+  
+</p>
+
+<br/><br/>
+
 
 <!-- About me -->
 I'm a <code>**Computer Science Student**</code> from <code>**UNSIKA**</code> and still learning how to be come a <code>**Web Developer**</code> .

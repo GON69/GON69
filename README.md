@@ -11,7 +11,7 @@
 
 
 <!-- About me -->
-I'm a <code>**Computer Science Student**</code> from <code>**UNSIKA**</code> and still learning how to be come a <code>**Web Developer**</code> .
+I'm a <code>**Computer Science Student**</code> from <code>**UNSIKA**</code> and still learning how to become a <code>**Web Developer**</code> .
 <br>
 Welcome to <code>**My Github**<code>
 
